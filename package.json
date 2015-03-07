@@ -13,7 +13,5 @@
   "readme": "My readme here",
   "author": "barif",
   "license": "MIT",
-  "dependencies": {
-    "once": "^1.3.0"
-  }
+  "dependencies": {}
 }
