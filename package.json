@@ -4,8 +4,13 @@
   "description": "blabla",
   "main": "main.js",
   "scripts": {
-    "test": "test"
+    "test": "node test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/barif/node-module"
+  },
+  "readme": "My readme here",
   "author": "barif",
   "license": "MIT",
   "dependencies": {
